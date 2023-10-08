@@ -33,3 +33,5 @@ To run this program, ensure you have the following libraries installed:
 3. Open the provided link in a web browser.
 4. Use the interface to upload the required `.xlsx` files and utilize the available adjustments to customize your visualization.
 
+## Screenshot:
+![Screenshot](https://github.com/ilyashulga/ATE_Plotter/assets/107320352/f3c9caac-1fa3-4857-a20b-8f8925b7e5db)
